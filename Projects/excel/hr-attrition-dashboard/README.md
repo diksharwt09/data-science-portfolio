@@ -21,7 +21,8 @@ Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition
 - Dashboard design with KPI cards
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard_preview.png)
+![Dashboard Screenshot](<img width="1522" height="625" alt="dashboard_preview" src="https://github.com/user-attachments/assets/579179d2-7d0a-470c-8986-7bf581679874" />
+)
 
 ## 🔍 Key Insights
 - **Overtime is the single strongest attrition driver:** employees who work overtime leave at a **30.5%** rate, nearly 3x the **10.4%** rate for those who don't — the clearest signal in the entire dataset.
