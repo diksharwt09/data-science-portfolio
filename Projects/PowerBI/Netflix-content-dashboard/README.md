@@ -17,7 +17,7 @@ Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Slicers (Release Year range, Content Type)
 
 ## 📈 Dashboard Preview
-![Dashboard Screenshot](width="1430" height="796" alt="Screenshot 2026-07-31 184557" src="https://github.com/user-attachments/assets/1a431840-d67a-45d0-b981-82056b9b9f2e" />)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/1a431840-d67a-45d0-b981-82056b9b9f2e)
 
 ## 🔍 Key Insights
 - **Netflix's catalog grew explosively after 2015:** content additions were nearly flat through 2014, then rose sharply, peaking around 2019 before a slight pullback — reflecting Netflix's aggressive content investment phase in the late 2010s.
