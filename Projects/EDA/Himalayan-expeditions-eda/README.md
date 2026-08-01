@@ -22,7 +22,7 @@ Source: https://mavenanalytics.io/data-playground/himalayan-expeditions
 - Identifying and correcting a confounding variable in a group comparison
 
 ## 📈 Notebook Preview
-![Success and Death Rate by Decade](screenshots/success_death_rate image.png)
+![Success and Death Rate by Decade](Screenshots/success_death_rate image.png)
 
 ## 🔍 Key Insights
 - **Climbing has gotten dramatically safer and more successful since 1950:** success rates rose from ~34% in the 1950s to over 70% in the 2020s, while death rates fell from a 1970 peak of ~2.7% to under
