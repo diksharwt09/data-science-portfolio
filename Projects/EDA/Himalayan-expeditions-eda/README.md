@@ -22,7 +22,8 @@ Source: https://mavenanalytics.io/data-playground/himalayan-expeditions
 - Identifying and correcting a confounding variable in a group comparison
 
 ## 📈 Notebook Preview
-![Success and Death Rate by Decade](https://github.com/user-attachments/assets/ead3e0b8-264b-4eef-a748-09cfe35cf25c)
+![Success and Death Rate by Decade](<img width="1354" height="484" alt="Screenshot 2026-08-01 171406" src="https://github.com/user-attachments/assets/0b179465-9bc8-4a50-a87b-51e2633437de" />)
+
 
 ## 🔍 Key Insights
 - **Climbing has gotten dramatically safer and more successful since 1950:** success rates rose from ~34% in the 1950s to over 70% in the 2020s, while death rates fell from a 1970 peak of ~2.7% to under
@@ -39,4 +40,4 @@ Source: https://mavenanalytics.io/data-playground/himalayan-expeditions
 
 ## 📁 Files
 - `notebook/Himalayan_EDA.ipynb` — full analysis notebook
-- `data/exped.csv` — expedition-level dataset, `data/peaks.csv` — peak reference data - given above in source
+- Raw data (`exped.csv`, `peaks.csv`) not included in this repo — download from the Maven Analytics link above
