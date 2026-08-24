@@ -23,5 +23,6 @@ Columns include: transaction date/time, store location, product category, produc
 - **Revenue grew steadily month over month**, from $81,678 in January to a peak of $166,486 in June — more than double over the 6-month window
 - **Top single products by revenue** were Sustainably Grown Organic Lg ($21,152) and Dark Chocolate Lg ($21,006), while top products by quantity sold were Earl Grey Rg (4,708 units) and Morning Sunrise Chai Rg (4,643 units) — showing revenue leaders and volume leaders aren't always the same items
 
-- ## Screenshots
-![Dashboard Overview](<img width="1864" height="698" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8" />)
+## Screenshots
+
+<img width="100%" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8" />
