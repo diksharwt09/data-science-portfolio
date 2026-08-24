@@ -24,4 +24,4 @@ Columns include: transaction date/time, store location, product category, produc
 - **Top single products by revenue** were Sustainably Grown Organic Lg ($21,152) and Dark Chocolate Lg ($21,006), while top products by quantity sold were Earl Grey Rg (4,708 units) and Morning Sunrise Chai Rg (4,643 units) — showing revenue leaders and volume leaders aren't always the same items
 
 - ## Screenshots
-![Dashboard Overview](<img width="1864" height="698" alt="Screenshot 2026-08-19 214255" src="https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8" />)
+![Dashboard Overview](<img width="1864" height="698" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8" />)
