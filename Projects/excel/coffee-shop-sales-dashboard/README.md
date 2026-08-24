@@ -25,4 +25,4 @@ Columns include: transaction date/time, store location, product category, produc
 
 ## Screenshots
 
-<img width="100%" alt="Coffee Shop Sales Dashboard" src="https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8" />
+![Dashboard Overview](https://github.com/user-attachments/assets/9989786a-ffe0-4daa-945d-00fe62180ca8)
